@@ -1,8 +1,5 @@
 package atbashCipher;
 
-import java.nio.file.spi.FileSystemProvider;
-import java.util.Arrays;
-
 public class Cipher {
 	
 	//26 letters
