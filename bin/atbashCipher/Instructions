@@ -14,3 +14,24 @@ Examples
 Encoding test gives gvhg
 Decoding gvhg gives test
 Decoding gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt gives thequickbrownfoxjumpsoverthelazydog
+
+
+
+Brazilian Portuguese:
+
+Crie uma implementação do cifra de Atbash, um antigo sistema de criptografia criado no Oriente Médio.
+
+A cifra de Atbash é uma simples cifra de substituição que se baseia na transposição de todas as letras do alfabeto, de modo que o alfabeto resultante seja invertido. A primeira letra é substituída pela última letra, a segunda pela penúltima, e assim por diante.
+
+Uma cifra de Atbash para o alfabeto latino seria a seguinte:
+
+Normal:  abcdefghijklmnopqrstuvwxyz
+Cifrado: zyxwvutsrqponmlkjihgfedcba
+É uma cifra muito fraca porque só tem uma chave possível e é uma simples cifra de substituição monoalfabética. No entanto, isso pode não ter sido um problema na época da cifra.
+
+O texto cifrado é escrito em grupos de comprimento fixo, sendo o tamanho tradicional do grupo de 5 letras, e a pontuação é excluída. Isso torna mais difícil adivinhar coisas com base nos limites das palavras.
+
+Exemplos:
+Codificando test dá gvhg
+Decodificando gvhg dá test
+Decodificando gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt dá thequickbrownfoxjumpsoverthelazydog

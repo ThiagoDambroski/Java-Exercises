@@ -7,3 +7,17 @@ Bob only ever answers one of five things:
 "Calm down, I know what I'm doing!" This is what he says if you yell a question at him.
 "Fine. Be that way!" This is how he responds to silence. The convention used for silence is nothing, or various combinations of whitespace characters.
 "Whatever." This is what he answers to anything else.
+
+
+
+Brazilian Portuguese:
+
+A sua tarefa é determinar o que Bob irá responder quando alguém disser algo ou fizer uma pergunta a ele.
+
+Bob sempre responde apenas uma das cinco coisas a seguir:
+
+"Sure." Essa é a resposta dele se você fizer uma pergunta a ele, como "Como você está?" A convenção usada para perguntas é que elas terminam com uma marca de interrogação.
+"Whoa, chill out!" Essa é a resposta dele se você GRITAR COM ELE. A convenção usada para gritar é TODAS AS LETRAS EM MAIÚSCULO.
+"Calm down, I know what I'm doing!" Isso é o que ele diz se você gritar uma pergunta para ele.
+"Fine. Be that way!" Esta é a resposta dele para o silêncio. A convenção usada para o silêncio é nada, ou várias combinações de caracteres de espaço em branco.
+"Whatever." Isso é o que ele responde a qualquer outra coisa.

@@ -41,3 +41,57 @@ Notice that were we to stack these, we could visually decode the ciphertext back
 "wttddes"
 "aohghn "
 "sseoau "
+
+
+
+
+
+
+Brazilian Portuguese:
+
+
+Implemente o método clássico de composição de mensagens secretas chamado código quadrado.
+
+Dado um texto em inglês, produza a versão codificada daquele texto.
+
+Primeiramente, a entrada é normalizada: espaços e pontuações são removidos do texto em inglês e a mensagem é colocada em minúsculas.
+
+Em seguida, os caracteres normalizados são divididos em linhas. Essas linhas podem ser vistas como formando um retângulo quando impressas com novas linhas intervencionais.
+
+Por exemplo, a frase
+
+"If man was meant to stay on the ground, god would have given us roots."
+é normalizada para:
+
+"ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots"
+O texto simples deve ser organizado em um retângulo. O tamanho do retângulo (r x c) deve ser decidido pelo comprimento da mensagem, de modo que c >= r e c - r <= 1, onde c é o número de colunas e r é o número de linhas.
+
+Nosso texto normalizado tem 54 caracteres de comprimento, ditando um retângulo com c = 8 e r = 7:
+
+"ifmanwas"
+"meanttos"
+"tayonthe"
+"groundgo"
+"dwouldha"
+"vegivenu"
+"sroots  "
+A mensagem codificada é obtida lendo as colunas da esquerda para a direita.
+
+A mensagem acima é codificada como:
+
+"imtgdvsfearwermayoogoanouuiontnnlvtwttddesaohghnsseoau"
+Produza o texto codificado em segmentos que preencham retângulos perfeitos (r X c), com c segmentos de comprimento r, separados por espaços. Para frases que têm n caracteres a menos do que o retângulo perfeito, preencha cada um dos últimos n segmentos com um único espaço em branco.
+
+"imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau "
+Observe que, se empilhássemos esses segmentos, poderíamos decodificar visualmente o texto cifrado de volta para a mensagem original:
+
+"imtgdvs"
+"fearwer"
+"mayoogo"
+"anouuio"
+"ntnnlvt"
+"wttddes"
+"aohghn "
+"sseoau "
+
+

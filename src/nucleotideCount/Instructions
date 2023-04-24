@@ -9,3 +9,21 @@ For example:
 
 "GATTACA" -> 'A': 3, 'C': 1, 'G': 1, 'T': 2
 "INVALID" -> error
+
+
+
+
+Brazilian Portuguese:
+
+Instruções
+
+O DNA é uma longa cadeia de outras substâncias químicas, sendo as mais importantes os quatro nucleotídeos: adenina, citosina, guanina e timina. Uma única cadeia de DNA pode conter bilhões desses quatro nucleotídeos e a ordem em que eles ocorrem é importante! Chamamos a ordem desses nucleotídeos em um trecho de DNA de "sequência de DNA".
+
+Representamos uma sequência de DNA como uma coleção ordenada desses quatro nucleotídeos e uma maneira comum de fazê-lo é com uma string de caracteres como "ATTACG" para uma sequência de DNA de 6 nucleotídeos. 'A' para adenina, 'C' para citosina, 'G' para guanina e 'T' para timina.
+
+Dada uma string que representa uma sequência de DNA, conte quantos de cada nucleotídeo estão presentes. Se a string contém caracteres que não são A, C, G ou T, então é inválida e você deve sinalizar um erro.
+
+Por exemplo:
+
+"GATTACA" -> 'A': 3, 'C': 1, 'G': 1, 'T': 2
+"INVALID" -> erro

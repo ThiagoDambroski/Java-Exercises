@@ -1,4 +1,4 @@
-package robotExercite;
+package robotExercise;
 
 public class Cardinal {
 	

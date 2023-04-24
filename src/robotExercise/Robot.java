@@ -1,4 +1,4 @@
-package robotExercite;
+package robotExercise;
 
 import javax.management.RuntimeErrorException;
 
