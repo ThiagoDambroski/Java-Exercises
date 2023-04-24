@@ -12,7 +12,7 @@ This repository contains a collection of Java exercises. Below you will find a b
 <h2 id="atbash-cipher">Atbash Cipher</h2>
   
   <p>The Atbash cipher is an ancient encryption system created in the Middle East. Your task is to implement this cipher in Java. The Atbash cipher is a simple substitution cipher that relies on transposing all the letters in the alphabet such that the resulting alphabet is backwards. The first letter is replaced with the last letter, the second with the second-last, and so on. Ciphertext is written out in groups of fixed length, and punctuation is excluded.</p>
-  <p><a href="https://github.com/ThiagoDambroski/Java-Exercises/blob/main/src/atbashCipher/Instructions">Atbash Cipher Solution</p>
+  <p><a href="https://github.com/ThiagoDambroski/Java-Exercises/blob/main/src/atbashCipher">Atbash Cipher Solution</p>
 
   <h2 id="bob-exercise">Bob Exercise</h2>
   

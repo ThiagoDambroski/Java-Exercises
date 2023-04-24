@@ -12,7 +12,7 @@ Este repositório contém uma coleção de exercícios Java. Abaixo você encont
 <h2 id = "cifra-de-atbash"> Cifra de Atbash </h2>
 
   <p> A cifra de Atbash é um antigo sistema de criptografia criado no Oriente Médio. Sua tarefa é implementar esta cifra em Java. A cifra de Atbash é uma cifra de substituição simples que se baseia na transposição de todas as letras do alfabeto, de modo que o alfabeto resultante esteja de trás para frente. A primeira letra é substituída pela última letra, a segunda pela penúltima e assim por diante. O texto cifrado é escrito em grupos de comprimento fixo e a pontuação é excluída. </p>
-  <p><a href="https://github.com/ThiagoDambroski/Java-Exercises/blob/main/src/atbashCipher/Instructions">Solução da Cifra de Atbash</p>
+  <p><a href="https://github.com/ThiagoDambroski/Java-Exercises/blob/main/src/atbashCipher">Solução da Cifra de Atbash</p>
 
 <h2 id = "exercício-bob"> Exercício Bob </h2>
 
