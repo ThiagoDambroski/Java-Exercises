@@ -1,4 +1,4 @@
-// Repositório de exercícios Java
+## Repositório de exercícios Java
 
 Este repositório contém uma coleção de exercícios Java. Abaixo você encontrará um breve resumo de cada exercício:
 
