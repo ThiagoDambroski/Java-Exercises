@@ -37,4 +37,4 @@ This repository contains a collection of Java exercises. Below you will find a b
 <h2 id="robot-exercise">Robot Exercise</h2>
   
 <p>involves creating a program that can simulate robot movements on a hypothetical infinite grid. The robots can turn right, turn left, or advance (move forward) in the direction they are facing (north, east, south, or west). The program should be able to take a series of instructions and move the robot accordingly, and output its new position and facing direction.</p>
-<p><a href="https://github.com/ThiagoDambroski/Java-Exercises/tree/main/src/robotExercite">Robot Exercise Solution</p>
+<p><a href="https://github.com/ThiagoDambroski/Java-Exercises/tree/main/src/robotExercise">Robot Exercise Solution</p>

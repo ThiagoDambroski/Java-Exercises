@@ -37,4 +37,4 @@ Este repositório contém uma coleção de exercícios Java. Abaixo você encont
 <h2 id="#exercício-do-robô">Exercício do Robô</h2>
 
 <p>envolve criar um programa que possa simular movimentos de robôs em uma grade infinita hipotética. Os robôs podem virar para a direita, virar para a esquerda ou avançar (mover para frente) na direção em que estão enfrentando (norte, leste, sul ou oeste). O programa deve ser capaz de receber uma série de instruções e mover o robô de acordo, e exibir sua nova posição e direção.</p>
-<p><a href="https://github.com/ThiagoDambroski/Java-Exercises/tree/main/src/robotExercite">Solução Exercício do Robô</p>
+<p><a href="https://github.com/ThiagoDambroski/Java-Exercises/tree/main/src/robotExercise">Solução Exercício do Robô</p>
