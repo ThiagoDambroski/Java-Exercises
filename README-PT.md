@@ -2,12 +2,12 @@
 
 Este repositório contém uma coleção de exercícios Java. Abaixo você encontrará um breve resumo de cada exercício:
 
-- [Cifra de Atbash] (#cifra-de-atbash)
-- [Exercício Bob] (#exercício-bob)
-- [Quadrado Criptográfico] (#quadrado-criptográfico)
-- [Mochila] (#mochila)
-- [Contagem de Nucleotídeos] (#contagem-de-nucleotídeos)
-- [Exercício do Robô] (#exercício-do-robô)
+- [Cifra de Atbash](#cifra-de-atbash)
+- [Exercício Bob](#exercício-bob)
+- [Quadrado Criptográfico](#quadrado-criptográfico)
+- [Mochila](#mochila)
+- [Contagem de Nucleotídeos](#contagem-de-nucleotídeos)
+- [Exercício do Robô](#exercício-do-robô)
 
 <h2 id = "cifra-de-atbash"> Cifra de Atbash </h2>
 
